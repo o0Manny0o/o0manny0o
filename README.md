@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Moritz Wach</h1>
 <h3 align="center">A passionate Game and Web developer from Germany</h3>
 
-- 🔭 I’m currently working on **an Angular Web App for Trace Analytics**
+- 🔭 I’m currently working on at **Bredex**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **[Nuxt](https://nuxtjs.org/)**
 
 - 📫 How to reach me **moritz.wach@gmail.com**
 
